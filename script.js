@@ -11,7 +11,7 @@ document.getElementById("expense-form").addEventListener("submit", async (e) => 
   };
 
   // 2. ใส่ URL ที่ได้จาก Google Apps Script ของคุณ
-  const scriptURL = "https://script.google.com/macros/s/AKfycbwtq-vxuLIVDqiMtsRuFLpt8t5rUKIQy6yPDFk-bYInbSyHtsjNcE3d2uk1Cb_sxh66aA/exec";
+  const scriptURL = "https://script.google.com/macros/s/AKfycbwW_oj30M0Ns77E-y7b5BTk_PlcirhHVPlzrIi-uQtXQEefrnanf4qlwSumDVISPieCZg/exec";
 
   // 3. ส่งข้อมูล
   try {
